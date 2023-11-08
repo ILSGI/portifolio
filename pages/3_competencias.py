@@ -38,7 +38,8 @@ with st.expander("python"):
     st.write(python)
     
 with st.expander("sql"):
-    "structured query lenguage é a linguagem usada para manipular, verificar e gerenciar BDs/SGBDs ultilizo essa linguagem na grande maioria dos meus projetos"
+    sql = get_string(idioma, "sql")
+    st.write(sql)
     
 with st.expander("vou add mais"):
     "pedir ajuda a fernanda"

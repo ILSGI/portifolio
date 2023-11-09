@@ -29,6 +29,15 @@ def get_string(idioma, key):
 titulo = get_string(idioma,"titulo")
 st.title(titulo)
 
-with open ('dados_lincoln.json', "r", encoding="utf-8") as json_timeline:
-    timeline_info = json.load(json_timeline)     
+if idioma == "en" : 
+    with open ('dados_lincoln_en.json', "r", encoding="utf-8") as json_timeline:
+        timeline_info = json.load(json_timeline)     
+elif idioma == "es" :
+    with open ('dados_lincoln_es.json', "r", encoding="utf-8") as json_timeline:
+        timeline_info = json.load(json_timeline) 
+elif idioma == "pt" : 
+    with open ('dados_lincoln_pt.json', "r", encoding="utf-8") as json_timeline:
+        timeline_info = json.load(json_timeline) 
+
+
 timeline(timeline_info, height=500, )

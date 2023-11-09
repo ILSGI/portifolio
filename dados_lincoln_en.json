@@ -1,0 +1,117 @@
+{
+    
+  "events": [
+    {
+      "media": {
+        "url": "https://www.codebuddy.com.br/wp-content/themes/codebuddy/imgs/logo.svg",
+        "caption": "",
+        "credit": "CodeBuddy"
+      },
+      "start_date": {
+        "year": "2019",
+        "month": "2"
+      },
+      "text": {
+        "headline": "english",
+        "text": "como uma criança interessada em computadores e jogos conheci o mundo de game dev, porém o estabelecimento fechou e não pude continuar a estudar nada relacionado a programação"
+      }
+    },
+        
+    {
+      "media": {
+        "url": "https://imgs.search.brave.com/F9VzfP6gLRlT3ISpozIeel_FTTz6aYU3nlKd4xISL4Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Zml2ZWFjdHMuY29t/LmJyL3dwLWNvbnRl/bnQvd2VicC1leHBy/ZXNzL3dlYnAtaW1h/Z2VzL2RvYy1yb290/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzAxL3NnYmQtby1x/dWUtZS1wYXJhLXF1/ZS1zZXJ2ZS0xMDI0/eDQ1NS5qcGcud2Vi/cA",
+        "caption": "",
+        "credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "9"
+      },
+      "text": {
+        "headline": "introdução a ciencia de dados",
+        "text": "um familiar que trabalha na area me apresentou a ciencia de dados e me auxiliou em meu aprendizado e evolução"
+      }
+    },
+
+    {
+      "media": {
+        "url": "https://live.staticflickr.com/65535/53218849243_8812a1f2fe_m.jpg",
+        "caption": "",
+        "credit": "DIO"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "9"
+      },
+      "text": {
+        "headline": "Introdução à Programação e Pensamento Computacional",
+        "text": "n sei oq escrever kkskka"
+      }
+    },
+    
+    {
+      "media": {
+        "url": "https://i.postimg.cc/pT8S6Tdw/1a-fase.jpg",
+        "caption": "",
+        "credit": "escola do sebrae"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "4"
+      },
+      "text": {
+        "headline": "participação no desafio jovem empreemdedor 1a fase",
+        "text": "desc..."
+      }
+    },
+    
+    {
+      "media": {
+        "url": "https://i.postimg.cc/Fz4654d7/2a-fase.jpg",
+        "caption": "",
+        "credit": "escola do sebrae"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "4"
+      },
+      "text": {
+        "headline": "participação no desafio jovem empreemdedor 2a fase",
+        "text": "desc..."
+      }
+    },
+    
+    {
+      "media": {
+        "url": "https://i.postimg.cc/G2746cSj/simes.jpg",
+        "caption": "",
+        "credit": "escola do sebrae"
+      },
+      "start_date": {
+        "year": "2023",
+        "month": "5"
+      },
+      "text": {
+        "headline": "participação na simulação da simes",
+        "text": "desc..."
+      }
+    },
+    
+    {
+      "media": {
+        "url": "viagem a inglaterra",
+        "caption": "",
+        "credit": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": "12"
+      },
+      "text": {
+        "headline": "viagem a inglaterra com o objetivo de aprender e conviver com o ingles",
+        "text": "WhiskL socialmg"
+      }
+    }
+    
+  ]
+}

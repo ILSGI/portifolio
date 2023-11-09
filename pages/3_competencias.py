@@ -47,16 +47,20 @@ with st.expander("sql"):
     sql = get_string(idioma, "sql")
     st.write(sql)
     
-with st.expander("ingles"):
-    "pedir ajuda a fernanda"
-    
-with st.expander("espanhol"):
-        espanhol_df_data = [["total","A2"],["comprensión lectora","B1"],["comprensión auditiva","B1"],["expresión escrita","A2"],["expresión oral","A2"]]
-    def createDataframe(espanhol_df_data: [[int]]) -> pd.DataFrame:
-        column_names = ['españhol', 'nivel de idioma']
-        sla = pd.DataFrame(espanhol_df_data, columns=column_names)
-        return sla
-    df = createDataframe(espanhol_df_data)
-    st.table(df)
-    
-    
+st.text("Inglés")
+Inglés_df_data = [["total","B2"],["comprensión lectora","B2"],["comprensión auditiva","C1"],["expresión escrita","B1"],["expresión oral","B2"]]
+def createDataframe(Inglés_df_data: [[int]]) -> pd.DataFrame:
+    column_names = ['Inglés', 'nivel de idioma']
+    sla = pd.DataFrame(Inglés_df_data, columns=column_names)
+    return sla
+df_es = createDataframe(Inglés_df_data)
+st.table(df_es)
+
+st.text("españhol")
+espanhol_df_data = [["total","A2"],["comprensión lectora","B1"],["comprensión auditiva","B1"],["expresión escrita","A2"],["expresión oral","A2"]]
+def createDataframe(espanhol_df_data: [[int]]) -> pd.DataFrame:
+    column_names = ['españhol', 'nivel de idioma']
+    sla = pd.DataFrame(espanhol_df_data, columns=column_names)
+    return sla
+df_es = createDataframe(espanhol_df_data)
+st.table(df_es)

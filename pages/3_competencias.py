@@ -51,6 +51,12 @@ with st.expander("ingles"):
     "pedir ajuda a fernanda"
     
 with st.expander("espanhol"):
-    "pedir ajuda a luciana"
+        espanhol_df_data = [["total","A2"],["comprensión lectora","B1"],["comprensión auditiva","B1"],["expresión escrita","A2"],["expresión oral","A2"]]
+    def createDataframe(espanhol_df_data: [[int]]) -> pd.DataFrame:
+        column_names = ['españhol', 'nivel de idioma']
+        sla = pd.DataFrame(espanhol_df_data, columns=column_names)
+        return sla
+    df = createDataframe(espanhol_df_data)
+    st.table(df)
     
     

@@ -26,7 +26,7 @@ strings = {
     "es": {
         "titulo": "Competencias",
         "python": "Como una de las lenguajes que utilizo, Python me ayuda mucho en su facilidad para automatizaciones y visualización a través de Streamlit, como en este portafolio. También tengo conocimiento de diferentes bibliotecas como: NumPy, Pandas, Streamlit, etc.",
-        "sql": "El lenguaje de consulta estructurado (SQL) es el lenguaje utilizado para manipular, verificar y administrar bases de datos/sistemas de gestión de bases de datos relacionales. Utilizo este lenguaje en la gran mayoría de mis proyectos.",
+        "sql": "Structured query language (SQL) es el lenguaje utilizado para manipular, verificar y administrar bases de datos/sistemas de gestión de bases de datos relacionales. Utilizo este lenguaje en la gran mayoría de mis proyectos.",
         "ingles": "Inglés",
         "espanhol": "Español"
     }

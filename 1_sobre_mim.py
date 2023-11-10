@@ -35,3 +35,6 @@ st.subheader("Lincoln Sales e Gonçalves")
 
 texto = get_string(idioma, "texto")
 st.write(texto)
+
+
+st.link_button("code",https://github.com/ILSGI/portifolio/tree/main)

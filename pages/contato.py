@@ -38,3 +38,4 @@ st.title(midias_sociais)
 
 st.subheader("github: https://github.com/ILSGI")
 st.subheader("stackoverflow: https://stackoverflow.com/users/22666790/ilsgi")
+st.link_button(DIO profille,"https://www.dio.me/users/lincoln_sales_goncalves1")
